@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.data.cassandra.CassandraDataAutoCo
 @EnableAutoConfiguration(exclude = { CassandraDataAutoConfiguration.class })
 @SpringBootApplication
 public class DwApplication {
-
 	public static void main(String[] args) {
 		SpringApplication.run(DwApplication.class, args);
 	}
