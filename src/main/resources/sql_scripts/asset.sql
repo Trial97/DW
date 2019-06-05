@@ -1,0 +1,17 @@
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('ABD', '2019-04-13 18:01:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('ABD', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('ABC', '2019-04-13 18:01:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('ABC', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('HUM', '2019-04-13 18:01:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('HUM', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('DPOP', '2019-04-13 18:01:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('DPOP', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('DEF', '2019-04-13 18:01:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('DEF', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-16 06:41:55.099', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-15 17:21:15.492', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-04 15:29:01.453', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-04 15:15:33.537', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-04 15:12:44.725', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('WIKI/AAPL', '2019-04-04 14:07:20.538', {}, {}, {}, {}, {}, {});
+INSERT INTO dwkeyspace.asset (id, system_time, values_blob, values_boolean, values_double, values_int, values_text, values_timestamp) VALUES ('XYZ', '2019-04-13 18:00:00.000', {}, {}, {}, {}, {fruit=Apple, band=Beatles}, {});
